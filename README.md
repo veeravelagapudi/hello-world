@@ -1,4 +1,4 @@
 # hello-world
 My First Repository on GITHUB
 
-I love :coffee:, :pizza:, and :dancer:.
+I love :tea:, and :pizza:.
